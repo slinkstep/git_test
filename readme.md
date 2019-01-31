@@ -1,3 +1,6 @@
 
 # IDW EJEMPLO GITHUB
-# dddddde
+# Continuamos con el ejemplo de GITHUB
+
+- git rm --> sacar del stagging
+- git log --> registro de cambios
