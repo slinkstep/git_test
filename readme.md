@@ -8,3 +8,4 @@
   en el stagging area)
 - CAT name --> abrir el archivo en consola
 - git clean -df --> limpiar lo que no está en el stagging
+- git branch -a --> ver todas las ramas
