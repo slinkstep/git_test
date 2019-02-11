@@ -12,9 +12,8 @@ Para poder enviar o recibir mensajes de un correo electrónico es necesario disp
 
 ## Funcionamiento y protocolos
 
-![img](https://es.wikipedia.org/wiki/Correo_electrónico#/media/File:Cómo_funciona_el_e-mail.svg)
-
-| SMTP |
-|------|
-| IMAP |
-| POP3 |
+| PROTOCOLOS |
+|------------|
+| SMTP       |
+| IMAP       |
+| POP3       |
